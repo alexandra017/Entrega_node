@@ -1,0 +1,22 @@
+{
+  "name": "entrega_node",
+  "version": "1.0.0",
+  "description": "Primer trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandra017/Entrega_node.git"
+  },
+  "author": "Alexandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandra017/Entrega_node/issues"
+  },
+  "homepage": "https://github.com/alexandra017/Entrega_node#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
